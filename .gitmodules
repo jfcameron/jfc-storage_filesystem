@@ -1,0 +1,6 @@
+[submodule "cmake/jfc-cmake"]
+	path = cmake/jfc-cmake
+	url = https://github.com/jfcameron/jfc-cmake.git
+[submodule "extern/jfc-storage"]
+	path = extern/jfc-storage
+	url = https://github.com/jfcameron/jfc-storage.git
